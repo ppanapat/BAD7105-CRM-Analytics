@@ -1,6 +1,6 @@
-CUSTOMER SEGMENTATION
+# CUSTOMER SEGMENTATION
 -------------------------------------------------------
-![20945504](https://user-images.githubusercontent.com/82756975/146162434-c88d1391-fc68-4bdb-bc9b-5442a7e4c07a.jpg)
+![image](https://user-images.githubusercontent.com/82756975/147415552-18019478-5725-42ef-ae9c-ef80c33f5a50.png)
 
 ![image](https://user-images.githubusercontent.com/82756975/146320746-a8f67016-e13b-42ac-955b-4ca96b95c7da.png)
 
