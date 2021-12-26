@@ -1,3 +1,5 @@
+#CLV Dashboard
+----------------------------------------------------------------------
 หัวข้อนี้จะเป็นการนำข้อมูลในไฟล์ Supermarket Data.csv ในเว็บไซต์ https://www.dunnhumby.com มาทำการศึกษาเพื่อหา CLV Insight ของ Supermaket
 ![pexels-andrea-piacquadio-3796810](https://user-images.githubusercontent.com/82756975/146158076-097c84bf-f46e-4c95-8b80-335dd058d6ca.jpg)
 
