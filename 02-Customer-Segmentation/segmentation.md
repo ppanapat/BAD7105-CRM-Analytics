@@ -6,8 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/82756975/146320746-a8f67016-e13b-42ac-955b-4ca96b95c7da.png)
 
-กราฟข้างต้นแสดงการ
-
 ![image](https://user-images.githubusercontent.com/82756975/146320782-ac3f8239-501f-4bb3-a985-93fcdb829261.png)
 
 ![image](https://user-images.githubusercontent.com/82756975/146320830-e92b42a8-f926-4847-a5ed-cab03947b6da.png)
