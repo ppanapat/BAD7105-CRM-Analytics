@@ -5,7 +5,7 @@
 ![pexels-andrea-piacquadio-3796810](https://user-images.githubusercontent.com/82756975/147415361-1cbe1343-985d-4160-be55-05c0f695f580.jpg)
 -------------------------------------------------------------------
 ## 02-Customer-Segmentation
-![image](https://user-images.githubusercontent.com/82756975/147415537-5d1091d1-da44-4ba4-9580-03c5ffa610cf.png)
+![image](https://user-images.githubusercontent.com/82756975/147416071-f827bb11-e643-45a9-84e2-5ed11075be27.png)
 -------------------------------------------------------------------
 ## 03-Product-Recommendation
 ![istockphoto-904231604-612x612](https://user-images.githubusercontent.com/82756975/147415369-4f14c6a4-7c88-49b2-b065-f3d83bd31980.jpg)
